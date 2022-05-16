@@ -3,9 +3,9 @@ This is a compilation of assignments for computer vision for fall 2020.
 
 The topics covered are as follows:
 
-Hwk1 - Linear Algebra and Basic Image Maipulation
+Hwk1 - Linear Algebra and Basic Image Manipulation
 
-Hwk2 - Linear filters, covolution and correlation
+Hwk2 - Linear filters, convolution and correlation
 
 Hwk3 - Canny & Though
 
